@@ -1,0 +1,7 @@
+tensorflow
+wikipedia
+streamlit
+selenium
+tkinter
+keras
+bs4
